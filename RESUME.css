@@ -1,0 +1,123 @@
+body{
+    padding-top: 10px;
+}
+.container{
+    border: black;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+img{
+    height: 200px;
+    width: 150px;
+    margin-left: 120px;
+    margin-top: 20px;
+    
+}
+li{
+    color: white;
+    font-size:small ;
+}
+
+
+.left-side{
+    padding-left: 5px;
+    margin-left: 10px;
+    margin-top: 0px;
+    background-color: rgb(83, 24, 74);
+    height: 1350px;
+    width: 500px;
+  position: relative;
+}
+.right-side{
+    padding-left: 0px;
+    margin-left: 510px;
+    margin-top: -1350px;
+    background-color: rgb(235, 243, 240);
+    height: 1350px;
+    width: 1000px;
+   position: relative;
+}
+h3{
+    color: rgb(109, 47, 109);
+    margin-top: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+h4{
+    border-bottom: 1px black;
+    margin-left: 20px;
+    color: white;
+    margin-top: 50px;
+
+}
+h5{
+    border-bottom: 1px black;
+    margin-left: -90px;
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large}
+    h6{
+        padding-left: 10px;
+        color: black;
+    }
+    
+  .edd li{
+color: black;
+font-size: larger;
+  }  
+    
+.address {padding: 10px;
+    color: white;
+margin-left: 0px;
+margin-top: 0px
+    
+}
+.ad{padding: 10px;
+    margin-top: 0px;
+    margin-left:0px;
+    color: white;
+    font-size: smaller;
+    font-weight: lighter;
+}
+.phone{padding: 10px;
+    color: white;
+    margin-left: 0px;
+    margin-top: 0px
+}
+.ph{padding: 10px;
+    margin-top: 0px;
+    margin-left:0px;
+    color: white;
+    font-size: smaller;
+    font-weight: lighter; 
+}
+.mail{padding: 10px;
+    color: white;
+    margin-left: 0px;
+    margin-top: 0px
+}
+.em{margin-top: 0px;
+    margin-left: 0px;
+    color: white;
+    font-size: smaller;
+    font-weight: lighter;padding: 10px;
+}
+
+#care{
+    font-size:larger ;
+    padding: 40px;
+}
+#pro{
+    padding: 40px;
+    font-size: larger;
+}
+.dec p{
+font-size: larger;
+padding: 40px;
+}
+
+
+
